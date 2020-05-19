@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\Family_Budget\Family_Budget\bin\Debug\Family_Budget.exe.config
+C:\Users\Alex\source\repos\Family_Budget\Family_Budget\bin\Debug\Family_Budget.exe
+C:\Users\Alex\source\repos\Family_Budget\Family_Budget\bin\Debug\Family_Budget.pdb
+C:\Users\Alex\source\repos\Family_Budget\Family_Budget\obj\Debug\Family_Budget.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Family_Budget\Family_Budget\obj\Debug\Family_Budget.Form1.resources
+C:\Users\Alex\source\repos\Family_Budget\Family_Budget\obj\Debug\Family_Budget.Properties.Resources.resources
+C:\Users\Alex\source\repos\Family_Budget\Family_Budget\obj\Debug\Family_Budget.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Family_Budget\Family_Budget\obj\Debug\Family_Budget.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Family_Budget\Family_Budget\obj\Debug\Family_Budget.exe
+C:\Users\Alex\source\repos\Family_Budget\Family_Budget\obj\Debug\Family_Budget.pdb
+C:\Users\Alex\source\repos\Family_Budget\Family_Budget\obj\Debug\Family_Budget.Form2.resources
